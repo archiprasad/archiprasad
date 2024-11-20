@@ -6,12 +6,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=archiprasad&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
 <h3 align="left">🛠️ Skills and Tech Stack</h3>
 <h4 align="left">Languages:</h4>
 <div align="center">
@@ -72,6 +66,12 @@
 
 ###
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=archiprasad&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
 <h3 align="left">🚀 Featured Projects</h3>
 <ul>
   <li><strong>Budget Mint:</strong> AI-driven financial management platform integrating blockchain for secure insights.</li>
@@ -115,11 +115,3 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/archiprasad/archiprasad/output/snake.svg" alt="Snake animation" />
-
-###
