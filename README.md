@@ -1,57 +1,66 @@
-Here’s a README file similar to the style you requested:
+<h2 align="left">Hi 👋! My name is Archi Prasad, and I'm a passionate Data Analyst and Web Developer from Gossaigaon, Assam.</h2>
 
-```markdown
-# 👋 Hi, I'm Archi Prasad!
+###
 
-🎓 **Pursuing Bachelor's in Computer Science and Engineering**  
-🏆 **Top 20 in National Entrepreneurship Challenge (NEC)** - E-Cell IIT Bombay  
-📚 **Co-author of 5 book chapters on Data Science**  
-🎤 **Content & Social Media Manager** - Empowering 300+ students on entrepreneurial topics  
+<p align="left">Hello World!!</p>
 
----
+###
 
-## 🛠️ Tech Stack
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=archiprasad&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-### **Languages**
-- SQL | Python | C | HTML5 | CSS3 | PHP  
+###
 
-### **Frameworks & Libraries**
-- React | Bootstrap | TailwindCSS | Seaborn | Matplotlib | pandas  
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="30" alt="kaggle logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" alt="linkedin logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+</div>
 
-### **Data Visualization**
-- Power BI | Tableau | Jupyter Notebook | Advanced Excel  
+###
 
-### **Tools**
-- Canva | Figma | MySQL | Microsoft SQL Server | VS Code  
+<div align="left">
+  <a href="prasadarchi13@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/archiprasad/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
 
----
+###
 
-## 📊 GitHub Stats
+<br clear="both">
 
-![Archi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your_username&layout=compact&theme=radical)  
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=your_username&theme=radical)
+<img src="https://raw.githubusercontent.com/archiprasad/archiprasad/output/snake.svg" alt="Snake animation" />
 
----
+###
 
-## 🚀 Featured Projects
+<p align="left"></p>
 
-### **Budget Mint**
-AI-driven financial management platform integrating blockchain for secure insights.  
-
-### **Diwali Sales Analysis**
-A data analysis project showcasing insights from seasonal sales using Python.
-
-### **Sales Insights**
-Used Tableau & MySQL to increase sales by 20% via demographic & geographic targeting.  
-
----
-
-## 🌐 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/archi-prasad)  
-[![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&style=for-the-badge)](mailto:prasadarchi13@gmail.com)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=vercel&style=for-the-badge)](https://yourportfolio.link)  
-```
-
-> Replace `your_username` with your GitHub username and add your portfolio link under "Portfolio."
+###
